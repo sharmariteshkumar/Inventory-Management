@@ -67,7 +67,7 @@ git clone https://github.com/sharmariteshkumar/Inventory-Management.git
 ### 3. Open the Project
 
 ```bash
-cd YOUR-REPOSITORY
+cd Inventory-management
 ```
 
 ### 4. Run the Application
